@@ -1,0 +1,48 @@
+
+
+
+
+[ 
+  {
+        "id": 1,
+        "name": "Product name 1",
+        "price": 50,
+        "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg"
+},
+ {
+        "id": 2,
+        "name": "Product name 2",
+        "price": 70,
+        "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg"
+},
+ {
+        "id": 3,
+        "name": "Product name 3",
+        "price": 50,
+        "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg"
+},
+ {
+        "id": 4,
+        "name": "Product name 4",
+        "price": 150,
+        "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg"
+},
+ {
+        "id": 5,
+        "name": "Product name 5",
+        "price": 250,
+        "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg"
+},
+ {
+        "id": 6,
+        "name": "Product name 6",
+        "price": 150,
+        "image": "https://img.freepik.com/free-vector/smart-watch-realistic-image-black_1284-11873.jpg?size=626&ext=jpg"
+}
+
+]
+
+
+
+
+
